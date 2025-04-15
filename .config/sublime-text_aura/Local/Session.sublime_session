@@ -1,0 +1,2768 @@
+{
+	"file_history":
+	[
+		"/run/media/georg/Ex-Hdd/Linux/Viel Command Linux",
+		"/home/georg/.tmux.conf",
+		"/home/georg/.config/suckless/dwm /config.def.h",
+		"/home/georg/.alias_zsh",
+		"/home/georg/.bashrc",
+		"/home/georg/.config/bspwm/autostart.sh",
+		"/home/georg/.config/bspwm/color",
+		"/home/georg/.config/bspwm/bspwmrc",
+		"/home/georg/.config/bspwm/polybar/config",
+		"/home/georg/.config/tmux/tmux.conf",
+		"/home/georg/.config/tmux/themes/disrupted.conf",
+		"/home/georg/tmux.conf",
+		"/home/georg/.colors/dui",
+		"/home/georg/.bash_profile",
+		"/home/georg/.Xresources",
+		"/home/georg/.local/scripts/update.sh",
+		"/home/georg/.config/starship.toml",
+		"/run/media/georg/Ex-Hdd/Linux/bash-files/.config/bash/.bashrc",
+		"/run/media/georg/Ex-Hdd/Linux/ZSH/jake&linux zsh/zsh/.zshrc",
+		"/home/georg/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/georg/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/georg/.config/suckless/dwm /dwm.c",
+		"/home/georg/.config/suckless/slstatus/config.def.h",
+		"/home/georg/.local/dot/slstatus/config.def.h",
+		"/home/georg/.config/suckless/dwm /dwm.c.rej",
+		"/home/georg/.config/suckless/dwm /dwm-vtcolors-6.2.diff",
+		"/home/georg/.local/dot/dwm/config.def.h",
+		"/home/georg/.config/suckless/dwm/dwm.c",
+		"/home/georg/.config/suckless/dwm/config.def.h.rej",
+		"/home/georg/.config/suckless/dwm/patches/dwm-underlinetags-6.2.diff",
+		"/home/georg/.config/suckless/dwm/dwm.c.rej",
+		"/home/georg/.config/suckless/dwm/dwm-underlinetags-6.2.diff",
+		"/home/georg/.local/scripts/vsp2",
+		"/run/media/georg/Ex-Hdd/Linux/Dwm-Suckless/Suckless-DWMS/DWM-VOID-SLSTATUS/dwm/config.def.h",
+		"/home/georg/.config/suckless/dwm/dwm-scratchpads-20200414-728d397b.diff",
+		"/home/georg/.config/suckless/dwm/dwm-titlecolor-20190206-6.2.diff",
+		"/home/georg/.config/suckless/dwm/dwm-titlecolor-6.1.diff",
+		"/home/georg/.config/suckless/st/config.def.h",
+		"/home/georg/.config/suckless/dwm/patches/dwm-vanitygaps-6.2.diff",
+		"/home/georg/.config/suckless/dwm/patches/dwm-status2d-systray-6.3.diff",
+		"/home/georg/.config/suckless/dwm/dwm-restartsig-20180523-6.2.diff",
+		"/home/georg/.config/suckless/dwm/config.h"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"next_update_check": 1712913132,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1037.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			31.0,
+			57.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"them",
+						"UI: Select Color Scheme"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"th",
+						"UI: Select Theme"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/georg/.config/alacritty/alacritty.toml",
+				"/home/georg/.zshrc",
+				"/run/media/georg/Ex-Hdd/Linux/Viel Command Linux",
+				"/home/georg/.tmux.conf",
+				"/home/georg/.config/suckless/dwm /config.def.h",
+				"/home/georg/.alias_zsh",
+				"/home/georg/.bashrc",
+				"/home/georg/.config/bspwm/autostart.sh",
+				"/home/georg/.config/bspwm/color",
+				"/home/georg/.config/bspwm/bspwmrc",
+				"/home/georg/.config/bspwm/polybar/config",
+				"/home/georg/.config/tmux/tmux.conf",
+				"/home/georg/.config/tmux/themes/disrupted.conf",
+				"/home/georg/tmux.conf",
+				"/home/georg/.colors/dui",
+				"/home/georg/.bash_profile",
+				"/home/georg/.Xresources",
+				"/home/georg/.local/scripts/update.sh",
+				"/home/georg/.config/starship.toml",
+				"/run/media/georg/Ex-Hdd/Linux/bash-files/.config/bash/.bashrc",
+				"/run/media/georg/Ex-Hdd/Linux/ZSH/jake&linux zsh/zsh/.zshrc",
+				"/home/georg/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/georg/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/georg/.config/suckless/dwm /dwm.c",
+				"/home/georg/.config/suckless/slstatus/config.def.h",
+				"/home/georg/.local/dot/slstatus/config.def.h",
+				"/home/georg/.config/suckless/dwm /dwm.c.rej",
+				"/home/georg/.config/suckless/dwm /dwm-vtcolors-6.2.diff",
+				"/home/georg/.local/dot/dwm/config.def.h",
+				"/home/georg/.config/suckless/dwm/dwm.c",
+				"/home/georg/.config/suckless/dwm/config.def.h.rej",
+				"/home/georg/.config/suckless/dwm/patches/dwm-underlinetags-6.2.diff",
+				"/home/georg/.config/suckless/dwm/dwm.c.rej",
+				"/home/georg/.config/suckless/dwm/dwm-underlinetags-6.2.diff",
+				"/home/georg/.local/scripts/vsp2",
+				"/run/media/georg/Ex-Hdd/Linux/Dwm-Suckless/Suckless-DWMS/DWM-VOID-SLSTATUS/dwm/config.def.h",
+				"/home/georg/.config/suckless/dwm/dwm-scratchpads-20200414-728d397b.diff",
+				"/home/georg/.config/suckless/dwm/dwm-titlecolor-20190206-6.2.diff",
+				"/home/georg/.config/suckless/dwm/dwm-titlecolor-6.1.diff",
+				"/home/georg/.config/suckless/st/config.def.h",
+				"/home/georg/.config/suckless/dwm/patches/dwm-vanitygaps-6.2.diff",
+				"/home/georg/.config/suckless/dwm/patches/dwm-status2d-systray-6.3.diff",
+				"/home/georg/.config/suckless/dwm/dwm-restartsig-20180523-6.2.diff",
+				"/home/georg/.config/suckless/dwm/config.h"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ll='ls-lh'",
+					"status"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2498.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/georg/.zshrc",
+					"settings":
+					{
+						"buffer_size": 2601,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/georg/.config/alacritty/alacritty.toml",
+					"settings":
+					{
+						"buffer_size": 3254,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAABACAAAAAAAAEAIAAAAAAAABAAAAOA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "95"
+							},
+							"AgAAABACAAAAAAAAEQIAAAAAAAAAAAAAEQIAAAAAAAASAgAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAABECAAAAAAAAEQIAAAAAAAABAAAANQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "8"
+							},
+							"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							2,
+							"left_delete",
+							null,
+							"AgAAABECAAAAAAAAEQIAAAAAAAABAAAAOBACAAAAAAAAEAIAAAAAAAABAAAAOQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA4CAAAAAAAADgIAAAAAAAABAAAAMA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAA4CAAAAAAAADwIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "0"
+							},
+							"AQAAABACAAAAAAAAEQIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA4CAAAAAAAADgIAAAAAAAABAAAAMQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "099"
+							},
+							"AwAAAA4CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAAQAgAAAAAAAAAAAAAQAgAAAAAAABECAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							2,
+							"left_delete",
+							null,
+							"AgAAABACAAAAAAAAEAIAAAAAAAABAAAAOQ8CAAAAAAAADwIAAAAAAAABAAAAOQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "9"
+							},
+							"AQAAABACAAAAAAAAEQIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"left_delete",
+							null,
+							"AQAAABECAAAAAAAAEQIAAAAAAAABAAAAMA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "0"
+							},
+							"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"left_delete",
+							null,
+							"AQAAABECAAAAAAAAEQIAAAAAAAABAAAAMA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "9"
+							},
+							"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABMCAAAAAAAAFAIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEwIAAAAAAAATAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"",
+							null,
+							"AQAAABQCAAAAAAAA4wYAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFAIAAAAAAAAUAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"left_delete",
+							null,
+							"AQAAABECAAAAAAAAEQIAAAAAAAABAAAAOQ",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "6"
+							},
+							"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n"
+							},
+							"BAAAAOMGAAAAAAAA5AYAAAAAAAAAAAAA5AYAAAAAAADlBgAAAAAAAAAAAADlBgAAAAAAAOYGAAAAAAAAAAAAAOYGAAAAAAAA5wYAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA4wYAAAAAAADjBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"",
+							null,
+							"AQAAAOcGAAAAAAAAAAcAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA5wYAAAAAAADnBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAOcGAAAAAAAA6AYAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA5wYAAAAAAADnBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAOgGAAAAAAAA6QYAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6AYAAAAAAADoBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAAIHAAAAAAAAAwcAAAAAAAAAAAAAAwcAAAAAAAAEBwAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAgcAAAAAAAACBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"",
+							null,
+							"AQAAAAQHAAAAAAAA0wsAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAcAAAAAAAAEBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"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"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"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"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": "##"
+							},
+							"AgAAAOgGAAAAAAAA6QYAAAAAAAAAAAAA6QYAAAAAAADqBgAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6AYAAAAAAADoBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": "******"
+							},
+							"BgAAAOoGAAAAAAAA6wYAAAAAAAAAAAAA6wYAAAAAAADsBgAAAAAAAAAAAADsBgAAAAAAAO0GAAAAAAAAAAAAAO0GAAAAAAAA7gYAAAAAAAAAAAAA7gYAAAAAAADvBgAAAAAAAAAAAADvBgAAAAAAAPAGAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA6gYAAAAAAADqBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": "****"
+							},
+							"BAAAAPAGAAAAAAAA8QYAAAAAAAAAAAAA8QYAAAAAAADyBgAAAAAAAAAAAADyBgAAAAAAAPMGAAAAAAAAAAAAAPMGAAAAAAAA9AYAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA8AYAAAAAAADwBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": "*******"
+							},
+							"BwAAAA4HAAAAAAAADwcAAAAAAAAAAAAADwcAAAAAAAAQBwAAAAAAAAAAAAAQBwAAAAAAABEHAAAAAAAAAAAAABEHAAAAAAAAEgcAAAAAAAAAAAAAEgcAAAAAAAATBwAAAAAAAAAAAAATBwAAAAAAABQHAAAAAAAAAAAAABQHAAAAAAAAFQcAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADgcAAAAAAAAOBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"insert",
+							{
+								"characters": "***"
+							},
+							"AwAAABUHAAAAAAAAFgcAAAAAAAAAAAAAFgcAAAAAAAAXBwAAAAAAAAAAAAAXBwAAAAAAABgHAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFQcAAAAAAAAVBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": "###"
+							},
+							"AwAAABgHAAAAAAAAGQcAAAAAAAAAAAAAGQcAAAAAAAAaBwAAAAAAAAAAAAAaBwAAAAAAABsHAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAcAAAAAAAAYBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							1,
+							"",
+							null,
+							"AQAAABMCAAAAAAAAKAIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEwIAAAAAAAATAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABICAAAAAAAAEwIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							1,
+							"insert",
+							{
+								"characters": "###*"
+							},
+							"BAAAABQCAAAAAAAAFQIAAAAAAAAAAAAAFQIAAAAAAAAWAgAAAAAAAAAAAAAWAgAAAAAAABcCAAAAAAAAAAAAABcCAAAAAAAAGAIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAFAIAAAAAAAAUAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							73,
+							1,
+							"insert",
+							{
+								"characters": "*******"
+							},
+							"BwAAABgCAAAAAAAAGQIAAAAAAAAAAAAAGQIAAAAAAAAaAgAAAAAAAAAAAAAaAgAAAAAAABsCAAAAAAAAAAAAABsCAAAAAAAAHAIAAAAAAAAAAAAAHAIAAAAAAAAdAgAAAAAAAAAAAAAdAgAAAAAAAB4CAAAAAAAAAAAAAB4CAAAAAAAAHwIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGAIAAAAAAAAYAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							74,
+							1,
+							"insert",
+							{
+								"characters": "**"
+							},
+							"AgAAAB8CAAAAAAAAIAIAAAAAAAAAAAAAIAIAAAAAAAAhAgAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHwIAAAAAAAAfAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "*******"
+							},
+							"BwAAADYCAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAAA4AgAAAAAAAAAAAAA4AgAAAAAAADkCAAAAAAAAAAAAADkCAAAAAAAAOgIAAAAAAAAAAAAAOgIAAAAAAAA7AgAAAAAAAAAAAAA7AgAAAAAAADwCAAAAAAAAAAAAADwCAAAAAAAAPQIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": "***#"
+							},
+							"BAAAAD0CAAAAAAAAPgIAAAAAAAAAAAAAPgIAAAAAAAA/AgAAAAAAAAAAAAA/AgAAAAAAAEACAAAAAAAAAAAAAEACAAAAAAAAQQIAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQIAAAAAAAA9AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"insert",
+							{
+								"characters": "##"
+							},
+							"AgAAAEECAAAAAAAAQgIAAAAAAAAAAAAAQgIAAAAAAABDAgAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"them",
+						"UI: Select Color Scheme"
+					],
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"th",
+						"UI: Select Theme"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/run/media/georg/Ex-Hdd/Linux/Viel Command Linux",
+				"/home/georg/.tmux.conf",
+				"/home/georg/.config/suckless/dwm /config.def.h",
+				"/home/georg/.alias_zsh",
+				"/home/georg/.bashrc",
+				"/home/georg/.config/bspwm/autostart.sh",
+				"/home/georg/.config/bspwm/color",
+				"/home/georg/.config/bspwm/bspwmrc",
+				"/home/georg/.config/bspwm/polybar/config",
+				"/home/georg/.config/tmux/tmux.conf",
+				"/home/georg/.config/tmux/themes/disrupted.conf",
+				"/home/georg/tmux.conf",
+				"/home/georg/.colors/dui",
+				"/home/georg/.bash_profile",
+				"/home/georg/.Xresources",
+				"/home/georg/.local/scripts/update.sh",
+				"/home/georg/.config/starship.toml",
+				"/run/media/georg/Ex-Hdd/Linux/bash-files/.config/bash/.bashrc",
+				"/run/media/georg/Ex-Hdd/Linux/ZSH/jake&linux zsh/zsh/.zshrc",
+				"/home/georg/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/georg/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/georg/.config/suckless/dwm /dwm.c",
+				"/home/georg/.config/suckless/slstatus/config.def.h",
+				"/home/georg/.local/dot/slstatus/config.def.h",
+				"/home/georg/.config/suckless/dwm /dwm.c.rej",
+				"/home/georg/.config/suckless/dwm /dwm-vtcolors-6.2.diff",
+				"/home/georg/.local/dot/dwm/config.def.h",
+				"/home/georg/.config/suckless/dwm/dwm.c",
+				"/home/georg/.config/suckless/dwm/config.def.h.rej",
+				"/home/georg/.config/suckless/dwm/patches/dwm-underlinetags-6.2.diff",
+				"/home/georg/.config/suckless/dwm/dwm.c.rej",
+				"/home/georg/.config/suckless/dwm/dwm-underlinetags-6.2.diff",
+				"/home/georg/.local/scripts/vsp2",
+				"/run/media/georg/Ex-Hdd/Linux/Dwm-Suckless/Suckless-DWMS/DWM-VOID-SLSTATUS/dwm/config.def.h",
+				"/home/georg/.config/suckless/dwm/dwm-scratchpads-20200414-728d397b.diff",
+				"/home/georg/.config/suckless/dwm/dwm-titlecolor-20190206-6.2.diff",
+				"/home/georg/.config/suckless/dwm/dwm-titlecolor-6.1.diff",
+				"/home/georg/.config/suckless/st/config.def.h",
+				"/home/georg/.config/suckless/dwm/patches/dwm-vanitygaps-6.2.diff",
+				"/home/georg/.config/suckless/dwm/patches/dwm-status2d-systray-6.3.diff",
+				"/home/georg/.config/suckless/dwm/dwm-restartsig-20180523-6.2.diff",
+				"/home/georg/.config/suckless/dwm/config.h"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ll='ls-lh'",
+					"status"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/georg/.zshrc",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2601,
+								"regions":
+								{
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1390,
+												1395
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									},
+									"col_FFFFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+										"regions":
+										[
+											[
+												1352,
+												1352
+											]
+										],
+										"scope": "col_gutter"
+									}
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 609.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/georg/.config/alacritty/alacritty.toml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3254,
+								"regions":
+								{
+									"col_000000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1240,
+												1245
+											],
+											[
+												1400,
+												1405
+											],
+											[
+												1557,
+												1562
+											],
+											[
+												2611,
+												2616
+											],
+											[
+												2791,
+												2796
+											],
+											[
+												2968,
+												2973
+											]
+										],
+										"scope": "col_000000FF"
+									},
+									"col_000000FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+										"regions":
+										[
+											[
+												1240,
+												1240
+											],
+											[
+												1400,
+												1400
+											],
+											[
+												1557,
+												1557
+											],
+											[
+												2609,
+												2609
+											],
+											[
+												2789,
+												2789
+											],
+											[
+												2966,
+												2966
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_0000FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1311,
+												1315
+											],
+											[
+												1471,
+												1475
+											],
+											[
+												1628,
+												1632
+											],
+											[
+												2690,
+												2694
+											],
+											[
+												2870,
+												2874
+											],
+											[
+												3047,
+												3051
+											]
+										],
+										"scope": "col_0000FFFF"
+									},
+									"col_0000FFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_0000FFFF_circle.png",
+										"regions":
+										[
+											[
+												1311,
+												1311
+											],
+											[
+												1471,
+												1471
+											],
+											[
+												1628,
+												1628
+											],
+											[
+												2688,
+												2688
+											],
+											[
+												2868,
+												2868
+											],
+											[
+												3045,
+												3045
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_008000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1274,
+												1279
+											],
+											[
+												1434,
+												1439
+											],
+											[
+												1591,
+												1596
+											],
+											[
+												2649,
+												2654
+											],
+											[
+												2829,
+												2834
+											],
+											[
+												3006,
+												3011
+											]
+										],
+										"scope": "col_008000FF"
+									},
+									"col_008000FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+										"regions":
+										[
+											[
+												1274,
+												1274
+											],
+											[
+												1434,
+												1434
+											],
+											[
+												1591,
+												1591
+											],
+											[
+												2647,
+												2647
+											],
+											[
+												2827,
+												2827
+											],
+											[
+												3004,
+												3004
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_00FFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1348,
+												1352
+											],
+											[
+												1508,
+												1512
+											],
+											[
+												1665,
+												1669
+											],
+											[
+												2731,
+												2735
+											],
+											[
+												2911,
+												2915
+											],
+											[
+												3088,
+												3092
+											]
+										],
+										"scope": "col_00FFFFFF"
+									},
+									"col_00FFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_00FFFFFF_circle.png",
+										"regions":
+										[
+											[
+												1348,
+												1348
+											],
+											[
+												1508,
+												1508
+											],
+											[
+												1665,
+												1665
+											],
+											[
+												2729,
+												2729
+											],
+											[
+												2909,
+												2909
+											],
+											[
+												3086,
+												3086
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_1E1E2EFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												611,
+												618
+											],
+											[
+												725,
+												732
+											],
+											[
+												786,
+												793
+											],
+											[
+												853,
+												860
+											],
+											[
+												930,
+												937
+											],
+											[
+												997,
+												1004
+											],
+											[
+												1065,
+												1072
+											],
+											[
+												1131,
+												1138
+											],
+											[
+												1191,
+												1198
+											]
+										],
+										"scope": "col_1E1E2EFF"
+									},
+									"col_1E1E2EFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_1E1E2EFF_circle.png",
+										"regions":
+										[
+											[
+												597,
+												597
+											],
+											[
+												717,
+												717
+											],
+											[
+												778,
+												778
+											],
+											[
+												839,
+												839
+											],
+											[
+												916,
+												916
+											],
+											[
+												983,
+												983
+											],
+											[
+												1051,
+												1051
+											],
+											[
+												1117,
+												1117
+											],
+											[
+												1183,
+												1183
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_24273AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1906,
+												1913
+											],
+											[
+												2032,
+												2039
+											],
+											[
+												2101,
+												2108
+											],
+											[
+												2176,
+												2183
+											],
+											[
+												2261,
+												2268
+											],
+											[
+												2336,
+												2343
+											],
+											[
+												2412,
+												2419
+											],
+											[
+												2486,
+												2493
+											],
+											[
+												2554,
+												2561
+											]
+										],
+										"scope": "col_24273AFF"
+									},
+									"col_24273AFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_24273AFF_circle.png",
+										"regions":
+										[
+											[
+												1890,
+												1890
+											],
+											[
+												2022,
+												2022
+											],
+											[
+												2091,
+												2091
+											],
+											[
+												2160,
+												2160
+											],
+											[
+												2245,
+												2245
+											],
+											[
+												2320,
+												2320
+											],
+											[
+												2396,
+												2396
+											],
+											[
+												2470,
+												2470
+											],
+											[
+												2544,
+												2544
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_45475AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1249,
+												1256
+											],
+											[
+												1566,
+												1573
+											]
+										],
+										"scope": "col_45475AFF"
+									},
+									"col_45475AFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_45475AFF_circle.png",
+										"regions":
+										[
+											[
+												1240,
+												1240
+											],
+											[
+												1557,
+												1557
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_494D64FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2620,
+												2627
+											],
+											[
+												2977,
+												2984
+											]
+										],
+										"scope": "col_494D64FF"
+									},
+									"col_494D64FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_494D64FF_circle.png",
+										"regions":
+										[
+											[
+												2609,
+												2609
+											],
+											[
+												2966,
+												2966
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_585B70FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1409,
+												1416
+											]
+										],
+										"scope": "col_585B70FF"
+									},
+									"col_585B70FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_585B70FF_circle.png",
+										"regions":
+										[
+											[
+												1400,
+												1400
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_5B6078FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2800,
+												2807
+											]
+										],
+										"scope": "col_5B6078FF"
+									},
+									"col_5B6078FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_5B6078FF_circle.png",
+										"regions":
+										[
+											[
+												2789,
+												2789
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_89B4FAFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1319,
+												1326
+											],
+											[
+												1479,
+												1486
+											],
+											[
+												1636,
+												1643
+											]
+										],
+										"scope": "col_89B4FAFF"
+									},
+									"col_89B4FAFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_89B4FAFF_circle.png",
+										"regions":
+										[
+											[
+												1311,
+												1311
+											],
+											[
+												1471,
+												1471
+											],
+											[
+												1628,
+												1628
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_8AADF4FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2698,
+												2705
+											],
+											[
+												2878,
+												2885
+											],
+											[
+												3055,
+												3062
+											]
+										],
+										"scope": "col_8AADF4FF"
+									},
+									"col_8AADF4FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_8AADF4FF_circle.png",
+										"regions":
+										[
+											[
+												2688,
+												2688
+											],
+											[
+												2868,
+												2868
+											],
+											[
+												3045,
+												3045
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_8BD5CAFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2739,
+												2746
+											],
+											[
+												2919,
+												2926
+											],
+											[
+												3096,
+												3103
+											]
+										],
+										"scope": "col_8BD5CAFF"
+									},
+									"col_8BD5CAFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_8BD5CAFF_circle.png",
+										"regions":
+										[
+											[
+												2729,
+												2729
+											],
+											[
+												2909,
+												2909
+											],
+											[
+												3086,
+												3086
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_94E2D5FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1356,
+												1363
+											],
+											[
+												1516,
+												1523
+											],
+											[
+												1673,
+												1680
+											]
+										],
+										"scope": "col_94E2D5FF"
+									},
+									"col_94E2D5FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_94E2D5FF_circle.png",
+										"regions":
+										[
+											[
+												1348,
+												1348
+											],
+											[
+												1508,
+												1508
+											],
+											[
+												1665,
+												1665
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A5ADCBFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2201,
+												2208
+											],
+											[
+												2361,
+												2368
+											],
+											[
+												2511,
+												2518
+											],
+											[
+												2939,
+												2946
+											]
+										],
+										"scope": "col_A5ADCBFF"
+									},
+									"col_A5ADCBFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A5ADCBFF_circle.png",
+										"regions":
+										[
+											[
+												2185,
+												2185
+											],
+											[
+												2345,
+												2345
+											],
+											[
+												2495,
+												2495
+											],
+											[
+												2928,
+												2928
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A6ADC8FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												876,
+												883
+											],
+											[
+												1020,
+												1027
+											],
+											[
+												1154,
+												1161
+											],
+											[
+												1534,
+												1541
+											]
+										],
+										"scope": "col_A6ADC8FF"
+									},
+									"col_A6ADC8FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A6ADC8FF_circle.png",
+										"regions":
+										[
+											[
+												862,
+												862
+											],
+											[
+												1006,
+												1006
+											],
+											[
+												1140,
+												1140
+											],
+											[
+												1525,
+												1525
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A6DA95FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2286,
+												2293
+											],
+											[
+												2658,
+												2665
+											],
+											[
+												2838,
+												2845
+											],
+											[
+												3015,
+												3022
+											]
+										],
+										"scope": "col_A6DA95FF"
+									},
+									"col_A6DA95FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A6DA95FF_circle.png",
+										"regions":
+										[
+											[
+												2270,
+												2270
+											],
+											[
+												2647,
+												2647
+											],
+											[
+												2827,
+												2827
+											],
+											[
+												3004,
+												3004
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A6E3A1FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												953,
+												960
+											],
+											[
+												1283,
+												1290
+											],
+											[
+												1443,
+												1450
+											],
+											[
+												1600,
+												1607
+											]
+										],
+										"scope": "col_A6E3A1FF"
+									},
+									"col_A6E3A1FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A6E3A1FF_circle.png",
+										"regions":
+										[
+											[
+												939,
+												939
+											],
+											[
+												1274,
+												1274
+											],
+											[
+												1434,
+												1434
+											],
+											[
+												1591,
+												1591
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_B4BEFEFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												805,
+												812
+											]
+										],
+										"scope": "col_B4BEFEFF"
+									},
+									"col_B4BEFEFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_B4BEFEFF_circle.png",
+										"regions":
+										[
+											[
+												795,
+												795
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_B7BDF8FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2122,
+												2129
+											]
+										],
+										"scope": "col_B7BDF8FF"
+									},
+									"col_B7BDF8FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_B7BDF8FF_circle.png",
+										"regions":
+										[
+											[
+												2110,
+												2110
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_B8C0E0FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2759,
+												2766
+											],
+											[
+												3116,
+												3123
+											]
+										],
+										"scope": "col_B8C0E0FF"
+									},
+									"col_B8C0E0FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_B8C0E0FF_circle.png",
+										"regions":
+										[
+											[
+												2748,
+												2748
+											],
+											[
+												3105,
+												3105
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_BAC2DEFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1374,
+												1381
+											],
+											[
+												1691,
+												1698
+											]
+										],
+										"scope": "col_BAC2DEFF"
+									},
+									"col_BAC2DEFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_BAC2DEFF_circle.png",
+										"regions":
+										[
+											[
+												1365,
+												1365
+											],
+											[
+												1682,
+												1682
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_CAD3F5FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1931,
+												1938
+											],
+											[
+												1960,
+												1967
+											],
+											[
+												1992,
+												1999
+											]
+										],
+										"scope": "col_CAD3F5FF"
+									},
+									"col_CAD3F5FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_CAD3F5FF_circle.png",
+										"regions":
+										[
+											[
+												1915,
+												1915
+											],
+											[
+												1940,
+												1940
+											],
+											[
+												1969,
+												1969
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_CDD6F4FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												634,
+												641
+											],
+											[
+												661,
+												668
+											],
+											[
+												691,
+												698
+											]
+										],
+										"scope": "col_CDD6F4FF"
+									},
+									"col_CDD6F4FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_CDD6F4FF_circle.png",
+										"regions":
+										[
+											[
+												620,
+												620
+											],
+											[
+												643,
+												643
+											],
+											[
+												670,
+												670
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_ED8796FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2638,
+												2645
+											],
+											[
+												2818,
+												2825
+											],
+											[
+												2995,
+												3002
+											]
+										],
+										"scope": "col_ED8796FF"
+									},
+									"col_ED8796FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_ED8796FF_circle.png",
+										"regions":
+										[
+											[
+												2629,
+												2629
+											],
+											[
+												2809,
+												2809
+											],
+											[
+												2986,
+												2986
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_EED49FFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2437,
+												2444
+											],
+											[
+												2679,
+												2686
+											],
+											[
+												2859,
+												2866
+											],
+											[
+												3036,
+												3043
+											]
+										],
+										"scope": "col_EED49FFF"
+									},
+									"col_EED49FFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_EED49FFF_circle.png",
+										"regions":
+										[
+											[
+												2421,
+												2421
+											],
+											[
+												2667,
+												2667
+											],
+											[
+												2847,
+												2847
+											],
+											[
+												3024,
+												3024
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F38BA8FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1265,
+												1272
+											],
+											[
+												1425,
+												1432
+											],
+											[
+												1582,
+												1589
+											]
+										],
+										"scope": "col_F38BA8FF"
+									},
+									"col_F38BA8FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F38BA8FF_circle.png",
+										"regions":
+										[
+											[
+												1258,
+												1258
+											],
+											[
+												1418,
+												1418
+											],
+											[
+												1575,
+												1575
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F4DBD6FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2053,
+												2060
+											],
+											[
+												2579,
+												2586
+											],
+											[
+												3244,
+												3251
+											]
+										],
+										"scope": "col_F4DBD6FF"
+									},
+									"col_F4DBD6FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F4DBD6FF_circle.png",
+										"regions":
+										[
+											[
+												2041,
+												2041
+											],
+											[
+												2563,
+												2563
+											],
+											[
+												3233,
+												3233
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F5A97FFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												3180,
+												3187
+											]
+										],
+										"scope": "col_F5A97FFF"
+									},
+									"col_F5A97FFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F5A97FFF_circle.png",
+										"regions":
+										[
+											[
+												3169,
+												3169
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F5BDE6FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2720,
+												2727
+											],
+											[
+												2900,
+												2907
+											],
+											[
+												3077,
+												3084
+											]
+										],
+										"scope": "col_F5BDE6FF"
+									},
+									"col_F5BDE6FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F5BDE6FF_circle.png",
+										"regions":
+										[
+											[
+												2707,
+												2707
+											],
+											[
+												2887,
+												2887
+											],
+											[
+												3064,
+												3064
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F5C2E7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1339,
+												1346
+											],
+											[
+												1499,
+												1506
+											],
+											[
+												1656,
+												1663
+											]
+										],
+										"scope": "col_F5C2E7FF"
+									},
+									"col_F5C2E7FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F5C2E7FF_circle.png",
+										"regions":
+										[
+											[
+												1328,
+												1328
+											],
+											[
+												1488,
+												1488
+											],
+											[
+												1645,
+												1645
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F5E0DCFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												744,
+												751
+											],
+											[
+												1214,
+												1221
+											],
+											[
+												1803,
+												1810
+											]
+										],
+										"scope": "col_F5E0DCFF"
+									},
+									"col_F5E0DCFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F5E0DCFF_circle.png",
+										"regions":
+										[
+											[
+												734,
+												734
+											],
+											[
+												1200,
+												1200
+											],
+											[
+												1794,
+												1794
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F9E2AFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1088,
+												1095
+											],
+											[
+												1302,
+												1309
+											],
+											[
+												1462,
+												1469
+											],
+											[
+												1619,
+												1626
+											]
+										],
+										"scope": "col_F9E2AFFF"
+									},
+									"col_F9E2AFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F9E2AFFF_circle.png",
+										"regions":
+										[
+											[
+												1074,
+												1074
+											],
+											[
+												1292,
+												1292
+											],
+											[
+												1452,
+												1452
+											],
+											[
+												1609,
+												1609
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FAB387FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1747,
+												1754
+											]
+										],
+										"scope": "col_FAB387FF"
+									},
+									"col_FAB387FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FAB387FF_circle.png",
+										"regions":
+										[
+											[
+												1738,
+												1738
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF0000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1258,
+												1261
+											],
+											[
+												1418,
+												1421
+											],
+											[
+												1575,
+												1578
+											],
+											[
+												2631,
+												2634
+											],
+											[
+												2811,
+												2814
+											],
+											[
+												2988,
+												2991
+											]
+										],
+										"scope": "col_FF0000FF"
+									},
+									"col_FF0000FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
+										"regions":
+										[
+											[
+												1258,
+												1258
+											],
+											[
+												1418,
+												1418
+											],
+											[
+												1575,
+												1575
+											],
+											[
+												2629,
+												2629
+											],
+											[
+												2809,
+												2809
+											],
+											[
+												2986,
+												2986
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF00FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1328,
+												1335
+											],
+											[
+												1488,
+												1495
+											],
+											[
+												1645,
+												1652
+											],
+											[
+												2709,
+												2716
+											],
+											[
+												2889,
+												2896
+											],
+											[
+												3066,
+												3073
+											]
+										],
+										"scope": "col_FF00FFFF"
+									},
+									"col_FF00FFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF00FFFF_circle.png",
+										"regions":
+										[
+											[
+												1328,
+												1328
+											],
+											[
+												1488,
+												1488
+											],
+											[
+												1645,
+												1645
+											],
+											[
+												2707,
+												2707
+											],
+											[
+												2887,
+												2887
+											],
+											[
+												3064,
+												3064
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFF00FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1292,
+												1298
+											],
+											[
+												1452,
+												1458
+											],
+											[
+												1609,
+												1615
+											],
+											[
+												2669,
+												2675
+											],
+											[
+												2849,
+												2855
+											],
+											[
+												3026,
+												3032
+											]
+										],
+										"scope": "col_FFFF00FF"
+									},
+									"col_FFFF00FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFF00FF_circle.png",
+										"regions":
+										[
+											[
+												1292,
+												1292
+											],
+											[
+												1452,
+												1452
+											],
+											[
+												1609,
+												1609
+											],
+											[
+												2667,
+												2667
+											],
+											[
+												2847,
+												2847
+											],
+											[
+												3024,
+												3024
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1365,
+												1370
+											],
+											[
+												1525,
+												1530
+											],
+											[
+												1682,
+												1687
+											],
+											[
+												2750,
+												2755
+											],
+											[
+												2930,
+												2935
+											],
+											[
+												3107,
+												3112
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									},
+									"col_FFFFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+										"regions":
+										[
+											[
+												1365,
+												1365
+											],
+											[
+												1525,
+												1525
+											],
+											[
+												1682,
+												1682
+											],
+											[
+												2748,
+												2748
+											],
+											[
+												2928,
+												2928
+											],
+											[
+												3105,
+												3105
+											]
+										],
+										"scope": "col_gutter"
+									}
+								},
+								"selection":
+								[
+									[
+										579,
+										579
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3150.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,30,31,2528,1068,4480,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

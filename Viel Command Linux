@@ -1,0 +1,71 @@
+Zip Passworter knacken mit fcrackzip
+
+fcrackzip -D -u -v -p /usr/share/wordlists/rockyou.txt "name der zipdatei"
+
+Pdf Datei mit passwort zipen
+pdftk "dateiname" "outputname" user_pw "passwort"
+
+beispiel:
+pdftk ipv64.net.pdf output ipv64_pw.pdf user_pw georg12345
+
+cracken mit
+pdfcrack -f ipv_pw.pdf -w /usr/share/wordlists/rockyou.txt
+
+
+Locale.conf
+LANG=de_DE.UTF-8
+LANGUAGE=de_DE
+#LC_COLLATE=C
+LC_TIME=de_DE.UTF-8
+LC_MONETARY=de_DE.UTF-8
+LC_NUMERIC=de_DE.UTF-8
+LC_CTYPE=de_DE.UTF-8
+LC_MESSAGES=de_DE.UTF-8
+LC_PAPER=de_DE.UTF-8
+LC_MEASUREMENT=de_DE.UTF-8
+LC_NAME=de_DE.UTF-8
+LC_ADDRESS=de_DE.UTF-8
+LC_TELEPHONE=de_DE.UTF-8
+LC_IDENTIFICATION=de_DE.UTF-8
+LC_ALL=
+
+
+XDG_DESKTOP_DIR="$HOME/Schreibtisch"
+XDG_DOWNLOAD_DIR="$HOME/Downloads"
+XDG_TEMPLATES_DIR="$HOME/"
+XDG_PUBLICSHARE_DIR="$HOME/"
+XDG_DOCUMENTS_DIR="$HOME/Dokumente"
+XDG_MUSIC_DIR="$HOME/"
+XDG_PICTURES_DIR="$HOME/Bilder"
+XDG_VIDEOS_DIR="$HOME/Videos"
+
+
+## INSTALL DEVOUR
+
+ git clone https://github.com/salman-abedin/devour.git && cd devour && sudo make install && cd "$HOME"/.local
+
+
+
+
+
+ 
+
+*********************************************************************************
+ ## Reboot und Shutdown Command config.def.h DWM MANAGER
+*********************************************************************************
+static const char *rebootcmd[] = { "systemctl", "reboot", NULL };
+static const char   *shutcmd[] = { "systemctl", "poweroff", NULL };
+
+{ ControlMask|Mod1Mask,         XK_r,      spawn,          {.v = rebootcmd } },
+{ ControlMask|Mod1Mask,         XK_s,      spawn,          {.v = shutcmd } },
+**********************************************************************************
+static const char *cfgscript[] = { "/home/georg/.config/dwm/scripts/config.sh", NULL }; /* config file selection menu */      // beispie um ein script auszufuhren
+{ MODKEY|ControlMask,		XK_v,      spawn,	   {.v = cfgscript } },
+******************************************************************************************************************************************************************
+
+## SOLVE THE ISSUE OF THUNAR TAKING 30 SECOND TO LOAD
+systemctl --user import-enviromment DISPLAY WAYLAND_DISPLAY XDG-CURRENT_DESKTOP
+
+
+
+./flexipatch-finalizer.sh -r -d ~/Downloads/dwm-flexipatch-master/ -o ~/Downloads/dwm

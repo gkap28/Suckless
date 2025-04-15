@@ -1,0 +1,23 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_size": 12,
+	"font_face": "Jetbrains Mono",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_numbers": true,
+	"highlight_line_number": true,
+	"line_padding_top": 5,
+	"line_padding_bottom": 5,
+
+
+
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+}
